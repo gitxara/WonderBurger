@@ -1,0 +1,1 @@
+The workflow could have been better if the new inserted features were first discussed to avoid overwriting other changes and if the other team member made their branch and changes after the first merge to ensure that the newer version of the main branch was already updated.
